@@ -15,7 +15,7 @@ Mini Mugshot is a widget that displays the latest items from your [Mugshot](http
 
 Installing Mini Mugshot is easy. If you want to add your Mini Mugshot to your blog's sidebar, all you have to do is:
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload the `mini-mugshot` directory from the .zip file to the `/wp-content/plugins/` directory
 1. Activate the plugin through the Plugins menu in WordPress
 1. Add the Mini Mugshot sidebar widget from the Appearance → Widgets menu in WordPress
 1. You're done!
